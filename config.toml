@@ -32,23 +32,23 @@ title = "AGCred"
 
   [[params.services.item]]
     weight = "A"
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-    button_item_info = "Safer"
+    description = "Crédito rápido e fácil para seus projetos, servidor público."
+    button_item_info = "Servidores públicos"
 
   [[params.services.item]]
     weight = "B"
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-    button_item_info = "Faster"
+    description = "Na AGCred aposentados e pensionistas têm sempre a nossa preferência, para ajudar nos momentos mais alegres ou mais difíceis da sua vida. Consulte nossas opções de cartões."
+    button_item_info = "Aposentados e pensionistas"
 
   [[params.services.item]]
     weight = "C"
-    description = "Possimus id dicta consequuntur veritatis, reiciendis at sint distinctio eligend Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-    button_item_info = "Smarter"
+    description = "Se você pretende comprar ou trocar de carro, temos especialistas para ajudá-los da melhor forma."
+    button_item_info = "Veículos"
 
 # Welcome section
 [params.welcome]
   enable = true
-  title = "Welcome Assembly"
+  title = "Venha para a AGCred"
   subtitle = "Computing the conversion of instructions in low-level code to machine code by an assembler."
   description = "This is <strong>Assembly</strong>, a free, fully standards-compliant CSS template designed by <a href=\"http://templated.co\" rel=\"nofollow\">TEMPLATED</a>. The photos in this template are from <a href=\"http://fotogrph.com/\"> Fotogrph</a>. This free template is released under the <a href=\"http://templated.co/license\">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :)"
   button_text = "Call Now"
