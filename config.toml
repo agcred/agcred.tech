@@ -1,17 +1,17 @@
 theme = "hugo-assembly"
-baseURL = "https://example.co"
+baseURL = "https://agcred.tech"
 languageCode = "en-US"
-title = "Assembly"
+title = "AGCred"
 
 # Metadata
 [params]
-  author = "A Human Name"
+  author = "Luiz Fernando P. Droubi"
   description = "The description"
 
 # banner section (from here on is for assembly theme)
 [params.banner]
-  title = "This is Assembly Template"
-  byline = "A free, CSS template ported over to a Hugo Theme."
+  title = "AGCred Financeira"
+  byline = "Serviços financeiros de qualidade para você e sua família."
 
 [params.actions] # CTAs
   enable = true
@@ -19,16 +19,16 @@ title = "Assembly"
 
 # Navigation section
 [params.nav]
-  home = "Home"
-  services = "Services"
-  welcome = "Welcome"
-  contact = "Contact Us"
+  home = "Início"
+  services = "Serviços"
+  welcome = "Bem-vindo"
+  contact = "Contacte-nos"
 
 # Services section
 [params.services]
   enable = true
-  title = "Services"
-  subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  title = "Serviços"
+  subtitle = "Na AGCred você encontra os melhores produtos financeiros. Somos especializados em crédito consignado para servidores públicos, aposentados e pensionistas."
 
   [[params.services.item]]
     weight = "A"
